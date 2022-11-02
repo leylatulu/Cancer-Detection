@@ -1,4 +1,4 @@
-# Detect-Cancer
+# Cancer Detection
 
 ... will be added ...
 
